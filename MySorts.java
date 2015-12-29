@@ -8,7 +8,7 @@
 
 import java.util.ArrayList;
 
-public class mySorts {
+public class MySorts {
     
     //~~~~~~~~~~~~~~~~~~~ HELPER METHODS ~~~~~~~~~~~~~~~~~~~
     //precond: lo < hi && size > 0
